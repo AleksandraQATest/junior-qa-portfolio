@@ -1,2 +1,11 @@
-# junior-qa-portfolio
-Junior QA Engineer | Manual Testing | QA Portfolio
+# Junior QA Engineer | Manual Testing
+
+## 👋 Обо мне
+
+Я начинающий QA Engineer, изучаю ручное тестирование программного обеспечения и развиваю практические навыки тестирования веб-приложений.
+
+Знакома с основами HTML и CSS, работаю с Git, GitHub и VS Code.
+
+В этом портфолио собираю учебные проекты и примеры тестовой документации.
+
+🎯 Цель — получить первую работу на позиции Junior QA Engineer (Manual QA).
